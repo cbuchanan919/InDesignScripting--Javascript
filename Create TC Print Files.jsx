@@ -1,9 +1,9 @@
 /*
 
 Note: This is specifically a script written for Adobe Indesign CS6 in JavaScript. 
-(Note: InDesign uses its own flavor of javascript that can read / write files) 
 It was used to automate a monthly periodical imposition named "TC". It relinked the final InDesign file to templates and exported the production files.  
 It also parsed a labels csv, and created the addressed envelopes & addressed body files. 
+(Note: InDesign uses its own flavor of javascript that can read / write files) 
 
 */
 
